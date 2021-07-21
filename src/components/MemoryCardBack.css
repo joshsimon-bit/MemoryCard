@@ -1,4 +1,4 @@
-.MemoryCard {
+.MemoryCardBack {
     display: inline-block;
     background: repeating-linear-gradient(
         45deg,
@@ -15,7 +15,7 @@
     cursor: pointer;
 }
 
-.MemoryCard img {
+.MemoryCardBack img {
     width: 100%;
     padding-top: 13px;
 }
